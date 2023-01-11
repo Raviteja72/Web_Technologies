@@ -1,0 +1,38 @@
+.p1
+{
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 24px;
+	font-family: Arial Black;
+}
+
+#p1
+{
+	font-family: Arial;
+}
+.p2
+{
+	color: green;
+	font-family: Georgia;
+	text-shadow: 1px 1px yellow;
+	font-size: 24px;
+}
+
+.p3
+{
+	color: orange;
+	font-size: 24px;
+	text-decoration: overline;
+	font-family: 
+	
+}
+
+#imgs
+{
+	border-style: solid;
+	border-width: 10px;
+	border-color: black;
+	background-position: right bottom;
+	
+}
